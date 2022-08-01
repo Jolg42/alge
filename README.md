@@ -1,6 +1,7 @@
 # Alge 🌱
 
 [![trunk](https://github.com/jasonkuhrt/alge/actions/workflows/trunk.yml/badge.svg)](https://github.com/jasonkuhrt/alge/actions/workflows/trunk.yml)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FJolg42%2Falge.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FJolg42%2Falge?ref=badge_shield)
 
 ## TL;DR
 
@@ -677,3 +678,7 @@ const doSomething = (shape: Shape): null | Shape.Circle => {
 </br></br></br></br></br>
 
 ![Alt](https://repobeats.axiom.co/api/embed/3c932f1cb76da4ad21328bfdd0ad1c6fbbe76a0b.svg 'Repobeats analytics image')
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FJolg42%2Falge.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FJolg42%2Falge?ref=badge_large)
